@@ -1,5 +1,5 @@
 # Syntechxhub_LandingPage-UI
-https://github.com/SuhconaDewan/landing-page
+
 
 # Sephara – Luxury Resort Landing Page
 
