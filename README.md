@@ -47,5 +47,6 @@ The final landing page delivers a polished and professional UI aligned with luxu
 ## Links
 - **Figma Design:** [_add link here_](https://www.figma.com/design/Q69VmwAFX1sOVxvjwOFzth/UI-of-a-Landing-Page-Suchona-Dewan?node-id=0-1&t=U3i4EPDZkZ6EpPn3-1)  
 - **Demo Video:** _[add link here](https://drive.google.com/file/d/1Yr5X5nNlsVU8avlyEn00Xr2ethb77y5t/view?usp=drive_link)_  
-- **GitHub Repository:**  https://github.com/SuchonaDewan/Syntechxhub_LandingPage-UI
+- **GitHub Repository:**  [https://github.com/SuchonaDewan/Syntechxhub_LandingPage-UI](https://github.com/SuchonaDewan/Syntechxhub_LandingPage-UI
+)
 
